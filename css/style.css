@@ -1,0 +1,375 @@
+/**
+ *  Custom style sheet used to fix some Bootstrap annoyances and layouts
+ * 
+ *  @author 	Robb Krasnow
+ *  @version 	1.0
+ */
+
+
+@charset "UTF-8";
+
+
+/******************
+ *****  HTML  *****
+ ******************/
+
+footer {
+	text-align: center;
+	clear: both;
+}
+
+label {
+	font-size: 17pt;
+	margin-top: 10px;
+}
+
+li {
+	list-style-type: none;
+}
+
+input {
+	padding-top: 25px;
+	padding-bottom: 20px;
+}
+
+p {
+	margin-top: 25px;
+}
+
+ul {
+	padding: 0;
+	margin: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+
+a:link {
+    text-decoration: none;
+}
+
+a:visited {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+a:active {
+    text-decoration: none;
+}
+
+
+/*********************
+ *****  GENERIC  *****
+ *********************/
+
+
+.center {
+	text-align: center;
+}
+
+.fix-width {
+	width: 100%;
+}
+
+.font-color-black {
+	color: #000;
+}
+
+.icon-fix {
+	padding-right: 10px;
+}
+
+.italics {
+	font-style: italic;
+}
+
+.left {
+	text-align: left;
+}
+
+.no-border {
+	border: none;
+}
+
+.pad {
+	padding-top: 25px;
+	padding-bottom: 25px;
+}
+
+
+/*************************** 
+ *****  MODALS, FORMS  *****
+ ***************************/
+
+
+.error-box, 
+.success-box,
+.duplicate-box,
+.invalid-login-box, 
+.success-login-box {
+	display: none;
+    margin: 0 35px 15px 35px;
+}
+
+.timestamps {
+	font-style: italic;
+	font-size: 8pt;
+}
+
+
+/*********************************
+ *****  BOOTSTRAP OVERRIDES  *****
+ *********************************/
+
+
+.form-control:focus {
+	border-bottom: 1px solid #ccc;
+}
+
+
+/*******************
+ *****  LOGIN  *****
+ *******************/
+
+
+.login-button-fix {
+	margin: 25px 5px 0 5px;
+	width: 150px;
+}
+
+.login-form-div {
+	max-width: 450px;
+    padding: 40px;
+    margin: 0 auto 20px;
+    background-color: #fff;
+    -webkit-border-radius: 5px;
+       -moz-border-radius: 5px;
+            border-radius: 5px;
+}
+
+.login-form-input-addon-fix {
+	width: 15px;
+}
+
+
+/**********************
+ *****  REGISTER  *****
+ **********************/
+
+
+.register-modal-form {
+	margin: 0 40px;
+}
+
+.register-modal-form-label {
+	font-weight: normal; 
+}
+
+
+/***********************
+ *****  DASHBOARD  *****
+ ***********************/
+
+
+.dashboard {
+    display: inline-block;
+    width: 960px;
+}
+
+.dashboard-table {
+	border: 1px solid #464545;
+}
+
+#dashboard-row td {
+	height: 250px;
+	vertical-align: middle;
+	font-size: 24pt;
+}
+
+
+/********************
+ *****  UPLOAD  *****
+ ********************/
+
+
+.upload-button-fix {
+	margin: 50px auto;
+}
+
+.upload-form {
+	width: 500px;
+	margin: 50px auto;
+}
+
+.upload-input-field {
+	text-align: left;
+}
+
+.fileinput .form-control {
+	padding-top: 11px;
+	padding-bottom: 11px;
+}
+
+
+/*********************
+ *****  MAILBOX  *****
+ *********************/
+
+
+.selected-mailbox {
+    width: 960px;
+    margin: 0 auto;
+}
+
+.mailbox-info {
+	margin-bottom: 20px;
+}
+
+
+/*****************
+ *****  VIZ  *****
+ *****************/
+
+
+.emails {
+	text-align: center;
+	margin: 0 auto;
+	width: 100%;
+}
+
+.viz {
+	display: inline-block;
+}
+
+.messages {
+	background-color: #303030;
+	display: inline-block;
+	text-align: left;
+	border: 1px solid #464545;
+	width: 400px;
+	height: 600px;
+	margin-left: -4px;
+	overflow-y: auto;
+	word-break: break-all;
+}
+
+.email-header {
+	width: 85px;
+}
+
+.sent-email label {
+	background-color: #007053;
+}
+
+.sent-email label:hover {
+	background-color: #00bc8c;
+}
+
+.received-email label {
+	background-color: #375a7f;
+}
+
+.received-email label:hover {
+	background-color: #3498db;
+}
+
+.empty-inbox {
+	padding: 30px 0;
+	margin: 0;
+}
+
+
+/**********************
+ *****  TOOLTIPS  *****
+ **********************/
+
+
+.tooltip {
+	position: absolute;
+	top: 100px;
+	left: 100px;
+	border-radius: 6px;
+	border: 2px solid #ccc;
+	background: #fff;
+	opacity: 1;
+	color: #000;
+	padding: 10px;
+	width: 300px;
+	font-size: 15px;
+	z-index: 120;
+}
+
+.tooltip-main {
+	margin: 0;
+}
+
+.tooltip-hr, .email-hr {
+	margin: 10px;
+	border: 0;
+    height: 1px;
+    background: #333;
+    background-image: linear-gradient(to right, #ccc, #333, #ccc);
+}
+
+.tooltip-span, .email-span {
+	font-weight: bold;
+}
+
+
+/***************************************************************************
+ *****  				MESSAGES (ACCORDION MENU)  				 	   *****
+ *****  @see https://codyhouse.co/gem/css-multi-level-accordion-menu/  *****
+ ***************************************************************************/
+
+
+.accordion-menu {
+	background: #4d5158;
+}
+
+.accordion-menu ul {
+  	/* By default hide all sub menus */
+ 	display: none;
+}
+
+.accordion-menu li {
+	-webkit-user-select: none;
+	-moz-user-select: none;
+	-ms-user-select: none;
+	user-select: none;
+}
+
+.accordion-menu input[type=checkbox] {
+	/* Hide native checkbox */
+	position: absolute;
+	opacity: 0;
+}
+
+.accordion-menu label {
+	position: relative;
+	display: block;
+	padding: 30px 18px 30px 64px;
+	font-size: 1.6rem;
+	cursor: pointer;
+	margin: 0;
+}
+
+.accordion-menu input[type=checkbox]:checked + label + ul,
+.accordion-menu input[type=checkbox]:checked + label:nth-of-type(n) + ul {
+	/* use label:nth-of-type(n) to fix a bug on safari (<= 8.0.8) with multiple adjacent-sibling selectors*/
+	/* show children when item is checked */
+	display: block;
+}
+
+.accordion-menu.animated label::before {
+	/* This class is used if you're using jquery to animate the accordion */
+	-webkit-transition: -webkit-transform 0.3s;
+	-moz-transition: -moz-transform 0.3s;
+	-o-transition: -moz-transform 0.3s;
+	transition: transform 0.3s;
+}

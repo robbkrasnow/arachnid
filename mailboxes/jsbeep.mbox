@@ -1,0 +1,154 @@
+From nobody Tue Sep 23 02:18:19 2003
+Received: (qmail 18555 invoked by uid 80); 22 Sep 2003 14:55:52 -0000
+Message-ID: <20030922145552.18554.qmail@mozdev.mozdev.org>
+To: jsbeep@mozdev.org
+From: notes@mozdev.org
+X-Mailman-Approved-At: Tue, 23 Sep 2003 02:18:18 -0400
+Subject: [Jsbeep] Jsbeep: New Feedback from  Ulrich S. Kapp
+X-BeenThere: jsbeep@mozdev.org
+X-Mailman-Version: 2.1.2
+Precedence: list
+List-Id: <jsbeep.mozdev.org>
+List-Unsubscribe: <http://mozdev.org/mailman/listinfo/jsbeep>,
+	<mailto:jsbeep-request@mozdev.org?subject=unsubscribe>
+List-Archive: <http://mozdev.org/pipermail/jsbeep>
+List-Post: <mailto:jsbeep@mozdev.org>
+List-Help: <mailto:jsbeep-request@mozdev.org?subject=help>
+List-Subscribe: <http://mozdev.org/mailman/listinfo/jsbeep>,
+	<mailto:jsbeep-request@mozdev.org?subject=subscribe>
+Date: Mon, 22 Sep 2003 14:55:52 -0000
+X-Original-Date: 22 Sep 2003 14:55:52 -0000
+X-List-Received-Date: Mon, 22 Sep 2003 14:55:52 -0000
+
+
+http://jsbeep.mozdev.org/index.html#1
+
+Very interesting! If someone knows about a PHP implementation of BEEP it would be very helpful for one of my projects.
+
+Ulrich S. Kapp
+BIGPiNG! OHG, Webdesign und Internetberatung / Web Design and Internet Consulting
+
+mailto:kapp@bigping.de
+http://www.bigping.com
+
+From nobody Tue Sep 23 02:18:20 2003
+Received: (qmail 24012 invoked by uid 80); 22 Sep 2003 15:49:17 -0000
+Message-ID: <20030922154917.24011.qmail@mozdev.mozdev.org>
+To: jsbeep@mozdev.org
+From: notes@mozdev.org
+X-Mailman-Approved-At: Tue, 23 Sep 2003 02:18:18 -0400
+Subject: [Jsbeep] Jsbeep: New Feedback from  Ulrich S. Kapp
+X-BeenThere: jsbeep@mozdev.org
+X-Mailman-Version: 2.1.2
+Precedence: list
+List-Id: <jsbeep.mozdev.org>
+List-Unsubscribe: <http://mozdev.org/mailman/listinfo/jsbeep>,
+	<mailto:jsbeep-request@mozdev.org?subject=unsubscribe>
+List-Archive: <http://mozdev.org/pipermail/jsbeep>
+List-Post: <mailto:jsbeep@mozdev.org>
+List-Help: <mailto:jsbeep-request@mozdev.org?subject=help>
+List-Subscribe: <http://mozdev.org/mailman/listinfo/jsbeep>,
+	<mailto:jsbeep-request@mozdev.org?subject=subscribe>
+Date: Mon, 22 Sep 2003 15:49:17 -0000
+X-Original-Date: 22 Sep 2003 15:49:17 -0000
+X-List-Received-Date: Mon, 22 Sep 2003 15:49:17 -0000
+
+
+http://jsbeep.mozdev.org/index.html#2
+
+At php.net, there's no information about a BEEP implementation in PHP. But maybe there's another project in the web.
+
+Ulrich S. Kapp 
+BIGPiNG! OHG, Webdesign und Internetberatung / Web Design and Internet Consulting
+
+
+
+kapp@bigping.de 
+http://www.bigping.de
+
+From nobody Tue Sep 23 02:18:20 2003
+Received: (qmail 90457 invoked by uid 80); 23 Sep 2003 06:14:31 -0000
+Message-ID: <20030923061431.90456.qmail@mozdev.mozdev.org>
+To: jsbeep@mozdev.org
+From: notes@mozdev.org
+X-Mailman-Approved-At: Tue, 23 Sep 2003 02:18:18 -0400
+Subject: [Jsbeep] Jsbeep: New Feedback from  Raj Saini
+X-BeenThere: jsbeep@mozdev.org
+X-Mailman-Version: 2.1.2
+Precedence: list
+List-Id: <jsbeep.mozdev.org>
+List-Unsubscribe: <http://mozdev.org/mailman/listinfo/jsbeep>,
+	<mailto:jsbeep-request@mozdev.org?subject=unsubscribe>
+List-Archive: <http://mozdev.org/pipermail/jsbeep>
+List-Post: <mailto:jsbeep@mozdev.org>
+List-Help: <mailto:jsbeep-request@mozdev.org?subject=help>
+List-Subscribe: <http://mozdev.org/mailman/listinfo/jsbeep>,
+	<mailto:jsbeep-request@mozdev.org?subject=subscribe>
+Date: Tue, 23 Sep 2003 06:14:32 -0000
+X-Original-Date: 23 Sep 2003 06:14:31 -0000
+X-List-Received-Date: Tue, 23 Sep 2003 06:14:32 -0000
+
+
+http://jsbeep.mozdev.org/index.html#3
+
+I am not aware of PHP implementation of BEEP. However, there are C and Java implementations. If you need the BEEP at client side (browser) you can use jsBEEP.
+
+From nobody Fri Sep 26 12:53:35 2003
+Received: (qmail 65394 invoked by uid 80); 26 Sep 2003 16:53:32 -0000
+Message-ID: <20030926165332.65393.qmail@mozdev.mozdev.org>
+To: jsbeep@mozdev.org
+From: notes@mozdev.org
+Subject: [Jsbeep] Jsbeep: New Feedback from  Charles Carter
+X-BeenThere: jsbeep@mozdev.org
+X-Mailman-Version: 2.1.2
+Precedence: list
+List-Id: <jsbeep.mozdev.org>
+List-Unsubscribe: <http://mozdev.org/mailman/listinfo/jsbeep>,
+	<mailto:jsbeep-request@mozdev.org?subject=unsubscribe>
+List-Archive: <http://mozdev.org/pipermail/jsbeep>
+List-Post: <mailto:jsbeep@mozdev.org>
+List-Help: <mailto:jsbeep-request@mozdev.org?subject=help>
+List-Subscribe: <http://mozdev.org/mailman/listinfo/jsbeep>,
+	<mailto:jsbeep-request@mozdev.org?subject=subscribe>
+Date: Fri, 26 Sep 2003 16:53:32 -0000
+X-Original-Date: 26 Sep 2003 16:53:32 -0000
+X-List-Received-Date: Fri, 26 Sep 2003 16:53:32 -0000
+
+
+http://jsbeep.mozdev.org/index.html#4
+
+Am very interested in using BEEP via Mozilla, but need to have access to a BEEP Server. You mention jBeep to tell
+where to go get it or look at it.
+Thanks
+
+From nobody Mon Sep 29 00:44:56 2003
+Received: (qmail 3430 invoked by uid 80); 29 Sep 2003 04:44:54 -0000
+Message-ID: <20030929044454.3429.qmail@mozdev.mozdev.org>
+To: jsbeep@mozdev.org
+From: notes@mozdev.org
+Subject: [Jsbeep] Jsbeep: New Feedback from  Ulrich S. Kapp
+X-BeenThere: jsbeep@mozdev.org
+X-Mailman-Version: 2.1.2
+Precedence: list
+List-Id: <jsbeep.mozdev.org>
+List-Unsubscribe: <http://mozdev.org/mailman/listinfo/jsbeep>,
+	<mailto:jsbeep-request@mozdev.org?subject=unsubscribe>
+List-Archive: <http://mozdev.org/pipermail/jsbeep>
+List-Post: <mailto:jsbeep@mozdev.org>
+List-Help: <mailto:jsbeep-request@mozdev.org?subject=help>
+List-Subscribe: <http://mozdev.org/mailman/listinfo/jsbeep>,
+	<mailto:jsbeep-request@mozdev.org?subject=subscribe>
+Date: Mon, 29 Sep 2003 04:44:55 -0000
+X-Original-Date: 29 Sep 2003 04:44:54 -0000
+X-List-Received-Date: Mon, 29 Sep 2003 04:44:55 -0000
+
+
+http://jsbeep.mozdev.org/index.html#5
+
+Client side, jsBEEP os ok. But server side a PHP implementation of BEEP would be nice. It looks like there is a PERL implementation of BEEP as well as a Pyton implementation, but none in PHP. :(
+
+Ulrich S. Kapp 
+BIGPiNG! OHG, Webdesign und Internetberatung / Web Design and Internet Consulting
+
+http://www.bigping.de
+
