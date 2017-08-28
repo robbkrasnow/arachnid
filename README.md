@@ -55,7 +55,7 @@ If anyone is interested in the research behind this tool, please ping me on the 
 
 Slack
 -----
-I have set up a Slack channel at [Arachnid Forensic Slack Channel](arachnid-forensic.slack.com) or anyone who would like to ping me with questions, concerns or issues. 
+I have set up a Slack channel at [Arachnid Forensic Slack Channel](arachnid-forensic.slack.com) or anyone who would like to ping me with questions, concerns or issues. Here is the invite for those new to Slack [Slack Invite](https://join.slack.com/t/arachnid-forensic/shared_invite/MjMzMjk1NTMyMjMwLTE1MDM4NzcwMzQtZDA5OWY1NzNjMQ)
 
 
 Contributing
